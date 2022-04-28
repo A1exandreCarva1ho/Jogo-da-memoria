@@ -1,0 +1,97 @@
+h1 {
+    text-align: center;
+
+}
+
+.corpo{
+}
+
+.bloco{
+width: 950px;
+height:700px;
+background-color: #76DED7;
+border-radius: 20px;
+margin:auto;
+margin-top:auto;
+margin-bottom: :auto;
+-webkit-transition: background-color 1s ease;
+-moz-transition: background-color 1s ease;
+-o-transition: background-color 1s ease;
+transition: background-color 1s ease;
+}
+
+.bloco2{
+width: 860px;
+height:600px;
+margin:auto;
+margin-top:auto;
+margin-bottom: :auto;
+}
+
+.barra1{
+width:900px;
+height:200px;
+float: top;
+margin:auto;
+}
+.barra2{
+width:900px;
+height:200px;
+margin:auto;
+}
+.barra3{
+width:900px;
+height:200px;
+float: bottom;
+margin:auto;
+}
+
+.card {
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    background-image: url("imagens/fundo.jpg");
+    background-repeat: no-repeat;
+    float: left;
+     margin-right: 20px;
+    float: top;
+   }
+
+.frente{
+ border-radius: 10px;
+ visibility: hidden;
+ width: 200px;
+ height: 200px;
+ margin:auto;
+}
+
+
+.tr1{
+  width: 950px;
+  height:700px;
+  background-color: #EF4A41;
+  border-radius: 20px;
+  margin:auto;
+  margin-top:auto;
+  margin-bottom: :auto;
+
+-webkit-transition: background-color 1s ease;
+-moz-transition: background-color 1s ease;
+-o-transition: background-color 1s ease;
+transition: background-color 1s ease;
+}
+
+.tr2{
+  width: 950px;
+  height:700px;
+  background-color: #F7F10D;
+  border-radius: 20px;
+  margin:auto;
+  margin-top:auto;
+  margin-bottom: :auto;
+
+-webkit-transition: background-color 1s ease;
+-moz-transition: background-color 1s ease;
+-o-transition: background-color 1s ease;
+transition: background-color  1s ease;
+}
